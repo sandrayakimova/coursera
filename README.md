@@ -15,4 +15,4 @@
 * [Размер случайного леса](https://github.com/sandrayakimova/coursera/blob/master/coursera_ML12.ipynb)
 * [Градиентный бустинг над решающими деревьями](https://github.com/sandrayakimova/coursera/blob/master/coursera_ML13.ipynb)
 * [Уменьшение количества цветов изображения](https://github.com/sandrayakimova/coursera/blob/master/coursera_ML14.ipynb)
-* [Финальное задание] (https://github.com/sandrayakimova/coursera/tree/master/final_project)
+* [Финальное задание](https://github.com/sandrayakimova/coursera/tree/master/final_project)
